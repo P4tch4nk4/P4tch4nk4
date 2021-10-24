@@ -14,3 +14,5 @@
 </div>
   
   ##
+  
+  ![Snake animation](https://github.com/P4tch4nk4/P4tch4nk4/blob/output/github-contribution-grid-snake.svg)
